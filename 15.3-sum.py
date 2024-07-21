@@ -32,6 +32,10 @@ class Solution:
                 else:
                     result.append([num, nums[left], nums[right]])
                     left += 1
+
+                    # we need to update our pointers
+                    # example: Doing two-sum on [-2, -2, 0, 0, 2, 2]
+                    # We only have to update one pointer (shift left pointer)
                     while nums[left] == nums[left - 1] and left < right:
                         left += 1
 
