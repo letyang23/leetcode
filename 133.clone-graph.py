@@ -16,6 +16,8 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+        if not node:
+            return None
         oldToNew = {}
 
         def dfs(node):
@@ -28,7 +30,7 @@ class Solution:
                 copy.neighbors.append(dfs(neighbor))
             return copy
 
-        return dfs(node) if node else None
+        return dfs(node)
 
 
 # @lc code=end
