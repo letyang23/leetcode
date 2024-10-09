@@ -65,6 +65,6 @@ If you have optimized solutions or different approaches to any of the problems, 
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 Thank you for visiting! I hope this repository aids you in your interview preparation and strengthens your coding skills.
