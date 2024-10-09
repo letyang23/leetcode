@@ -21,9 +21,9 @@ class Solution:
 
         for n in nums:
             # check if its the start of a sequence
-            if (n - 1) not in nums:
+            if (n - 1) not in numSet:
                 length = 0
-                while (n + length) in nums:
+                while (n + length) in numSet:
                     length += 1
                 longest = max(length, longest)
         return longest
