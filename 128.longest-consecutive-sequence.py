@@ -11,5 +11,17 @@ class Solution:
         # if it doesn't, it is a start of a sequence
 
         # convert into a set
+        numSet = set(nums)
+        longest = 0
+
+        for n in nums:
+            # check if its the start of a sequence
+            if (n-1) not in numSet:
+                length = 0
+                while (n+length) in numSet:
+                    length += 1
+                longest = max(length, longest)
+        return longest
+
 # @lc code=end
 
