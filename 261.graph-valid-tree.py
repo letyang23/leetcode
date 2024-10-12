@@ -12,7 +12,7 @@ class Solution:
             return True
 
         adj = {i: [] for i in range(n)}  # Create a hashset
-        for n1, n2 in edges:
+        for n1, n2 in edges:    # using the hashset to record all of neighbors
             adj[n1].append(n2)
             adj[n2].append(n1)
 
