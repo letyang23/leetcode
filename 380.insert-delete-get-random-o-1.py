@@ -21,7 +21,8 @@ class RandomizedSet:
     def remove(self, val: int) -> bool:
         if val not in self.map:
             return False
-        # delete element in the list and replace it with the last element in the list
+        
+        # Swap with the last element of the list and delete it
         index = self.map[val]
         lastVal = self.list[-1]
         self.list[index] = lastVal
