@@ -9,7 +9,7 @@ class RandomizedCollection:
 
     def __init__(self):
         self.values = []
-        self.map = defaultdict(list)
+        self.map = collections.defaultdict(list)
 
     def insert(self, val: int) -> bool:
         return True
