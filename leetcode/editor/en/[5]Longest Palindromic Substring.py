@@ -27,4 +27,4 @@ class Solution:
 # leetcode submit region end(Prohibit modification and deletion)
 
 solution = Solution()
-print(solution.longestPalindrome("babad"))
+print(solution.longestPalindrome("cbbd"))
