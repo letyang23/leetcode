@@ -102,6 +102,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[211]Design Add and Search Words Data Structure.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[211]Design Add and Search Words Data Structure.md" />
+              <option name="frontendQuestionId" value="leetcode.com211" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[211]Design Add and Search Words Data Structure.py" />
+              <option name="titleSlug" value="design-add-and-search-words-data-structure" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[226]Invert Binary Tree.py">
           <value>
             <LeetcodeEditor>
