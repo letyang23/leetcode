@@ -1,4 +1,5 @@
 # leetcode submit region begin(Prohibit modification and deletion)
+# Using Trie Data Structure (Leetcode 208)
 class TrieNode:
     def __init__(self):
         self.children = {}
