@@ -157,6 +157,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/en/[236]Lowest Common Ancestor of a Binary Tree.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[236]Lowest Common Ancestor of a Binary Tree.md" />
+              <option name="frontendQuestionId" value="leetcode.com236" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[236]Lowest Common Ancestor of a Binary Tree.py" />
+              <option name="titleSlug" value="lowest-common-ancestor-of-a-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[23]Merge k Sorted Lists.py">
           <value>
             <LeetcodeEditor>
