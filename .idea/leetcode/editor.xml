@@ -168,17 +168,6 @@
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/leetcode/editor/en/[295]Find Median from Data Stream.py">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/en/doc/content/[295]Find Median from Data Stream.md" />
-              <option name="frontendQuestionId" value="leetcode.com295" />
-              <option name="host" value="leetcode.com" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/en/[295]Find Median from Data Stream.py" />
-              <option name="titleSlug" value="find-median-from-data-stream" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/en/[297]Serialize and Deserialize Binary Tree.py">
           <value>
             <LeetcodeEditor>
